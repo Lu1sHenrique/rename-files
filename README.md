@@ -7,7 +7,7 @@ Este script em Python renomeia arquivos em um diretório com base na correspond�
 - Renomeia arquivos em um diretório específico.
 - Encontra o nome de arquivo mais semelhante usando a biblioteca `difflib`.
 - Mantém a extensão original dos arquivos ao renomeá-los.
-- Flexível, pois não requer a lista de nomes antigos, apenas a lista de novos nomes.
+- Flexível, pois é possível passar a lista de nomes antigos e novos (manuallly) ou somente a lista de nomes novos (automatic).
 
 ## Requisitos
 
